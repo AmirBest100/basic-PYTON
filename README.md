@@ -27,5 +27,17 @@ Clone this repository and run the `.py` files in any Python IDE or terminal.
 
 کافیست این ریپازیتوری را کلون کرده و فایل‌های `.py` را در یک محیط پایتون اجرا کنید.
 
+
+---
+
+***⭐💖  If you’d like to support this project, feel free to give it a ⭐️ on the repository 💖⭐***
+
+***⭐💖  لطفاً در صورت تمایل، با ثبت ⭐️ در مخزن، از این پروژه حمایت نماییده 💖⭐***
+
+---
+
+
 ```bash
 git clone https://github.com/AmirBest100/python-basics.git
+
+
