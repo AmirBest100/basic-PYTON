@@ -5,6 +5,8 @@ This project is designed to help newcomers grasp the core concepts of Python thr
 
 به این ریپازیتوری آموزشی پایتون خوش آمدید!  
 این پروژه با هدف آموزش مفاهیم پایه‌ای پایتون با مثال‌های ساده و قابل‌درک ایجاد شده است.
+![Welcome GIF](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+
 
 ---
 
