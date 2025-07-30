@@ -39,5 +39,9 @@ Clone this repository and run the `.py` files in any Python IDE or terminal.
 
 ```bash
 git clone https://github.com/AmirBest100/python-basics.git
+```
+______
 
+
+###  sources | منابع :  w3schools , realpython 
 
